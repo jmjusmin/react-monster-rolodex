@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 // import { Component } from "react";
 import "./App.css";
-import CardList from "./components/card-list/CardList.component";
+import CardList from "./components/card-list/CardList";
 import SearchBox from "./components/search-box/SearchBox.component";
 
 const App = () => {
